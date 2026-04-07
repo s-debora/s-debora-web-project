@@ -1,1 +1,3 @@
 # s-debora-web-project
+# Project 2 - HTML Foundation Page 
+My webpage is about my favorite sport which is soccer, I added a brief description of how it started and how it has impacted the world. I learned that it is a lot of debugging to able to get the code right, so it takes a lot of time and patience. The thing I struggled with the most was figuring out how to style the webpage using only HTML. I did have to do some research, but in the end I was able to figure it out. 
