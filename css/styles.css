@@ -58,9 +58,9 @@ body {
     font-size: 24px;
     width: fit-content;
     padding: 10px 20px;
-    background-color: lightgoldenrodyellow;
-    border: 3px;
-    border-radius: 1px;
+    background-color:lightsteelblue;
+    border: 6px;
+    border-radius: 6px;
     align-content: center;
     list-style-type:decimal;
 
