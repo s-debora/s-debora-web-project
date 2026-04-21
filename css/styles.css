@@ -53,12 +53,23 @@ body {
     display:block;
     margin: 20px auto;
  }
- ul {
+ ul{
+    margin: 20px auto;
+    width: fit-content;
+    padding: 10px 20px;
+    background-color: lightgoldenrodyellow;
+    border: 3px;
+    border-radius: 1px;
+    align-content: center;
+
+ }
+ li {
     text-align: center;
     color: darkgoldenrod;
     font-size: 24px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width:fit-content;
+    padding: 10px 20px;
     margin: auto;
  }
  table{
