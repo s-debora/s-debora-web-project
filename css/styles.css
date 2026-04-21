@@ -58,12 +58,12 @@ body {
  }
  ul{
     margin: 20px auto;
-    font-size: 24px;
+    font-size: 16px;
     width: fit-content;
     padding: 10px 20px;
     background-color:lightsteelblue;
-    border: 6px;
-    border-radius: 6px;
+    border: 5px;
+    border-radius: 3px;
     align-content: center;
     list-style-type:decimal;
 
