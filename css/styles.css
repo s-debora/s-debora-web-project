@@ -58,7 +58,6 @@ body {
  }
  ul{
     margin: 20px auto;
-    font-size: 16px;
     width: fit-content;
     padding: 10px 20px;
     background-color:lightsteelblue;
@@ -71,6 +70,7 @@ body {
  }
  li {
     text-align: center;
+    font-size: 16px;
     color: darkgoldenrod;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width:fit-content;
