@@ -55,18 +55,19 @@ body {
  }
  ul{
     margin: 20px auto;
+    font-size: 24px;
     width: fit-content;
     padding: 10px 20px;
     background-color: lightgoldenrodyellow;
     border: 3px;
     border-radius: 1px;
     align-content: center;
+    list-style-type:decimal;
 
  }
  li {
     text-align: center;
     color: darkgoldenrod;
-    font-size: 24px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width:fit-content;
     padding: 10px 20px;
