@@ -64,6 +64,7 @@ body {
     background-color:lightsteelblue;
     border: 5px;
     border-radius: 3px;
+    border-collapse: collapse;
     align-content: center;
     list-style-type:decimal;
 
