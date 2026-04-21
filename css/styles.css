@@ -15,7 +15,7 @@ body {
     margin:0 15px;
  }
  h1 {
-    color:darkcyan;
+    color:springgreen;
     border: 1px solid whitesmoke;
     background-color: dimgray;
     text-align: center;
@@ -25,7 +25,7 @@ body {
     font-style: unset;
  }
  h2 {
-    color:darkgreen;
+    color:cyan;
     border: 1px solid whitesmoke;
     background-color: dimgray;
     text-align: center;
@@ -35,7 +35,7 @@ body {
     font-style: oblique;
  }
  h3 {
-    color:darkslateblue;
+    color:orange;
     border: 1px solid whitesmoke;
     background-color: dimgray;
     text-align: center;
@@ -57,25 +57,21 @@ body {
     margin: 20px auto;
  }
  ul{
+    font-size: large;
     margin: 20px auto;
     width: fit-content;
-    padding: 10px 20px;
+    padding: 20px 30px;
     background-color:lightsteelblue;
-    border: 5px;
+    border: 5px solid black;
     border-radius: 3px;
-    border-collapse: collapse;
-    align-content: center;
     list-style-type:decimal;
 
  }
  li {
-    text-align: center;
-    font-size: 16px;
     color: darkgoldenrod;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width:fit-content;
-    padding: 10px 20px;
-    margin: auto;
+    padding: 10px;
  }
  table{
     margin: 20px auto;
