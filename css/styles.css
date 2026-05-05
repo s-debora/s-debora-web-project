@@ -95,3 +95,81 @@ body {
     color: gold;
  }
 
+ form {
+   background-color: aliceblue;
+   text-align: center;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color: black;
+   font-style: initial;
+   margin: 25px auto;
+   padding: 15px;
+   width: fit-content;
+   border: 2px solid darkgray;
+   border-radius: 15px;
+}
+label {
+   display: block;
+   margin-top: auto;
+}
+
+input {
+   display: block;
+   padding: 10px;
+   margin: 7px;
+   width: 250px;
+}
+
+button {
+   padding: 10px 20px;
+   background-color: khaki;
+   color: black;
+   border: 2px solid lightskyblue;
+   border-radius: 3px;
+   font-weight: bold;
+   cursor: pointer;
+}
+
+button:hover {
+   background-color: gold;
+   color: black;
+}
+
+#message {
+   color:aqua;
+   font-size: large;
+   font-weight: bold;
+   font-display: auto;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   margin-top: auto;
+}
+
+@media (max-width: 600px) {
+   body {
+      padding:12px
+   }
+
+   nav a {
+      display: flex;
+      margin: 10px 0;
+   }
+
+   img {
+      width: 100%;
+      height: auto;
+   }
+
+   table {
+      width: 100%;
+      font-size: small;
+   }
+
+   form {
+      width: 80%;
+   }
+
+   input, button {
+      width: 75%;
+      margin: 12px 0;
+   }
+}
+
