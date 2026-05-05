@@ -7,5 +7,5 @@ form.addEventListener("submit", function(event) {
     const name = document.getElementById("nation").value;
     const name = document.getElementById("worldcups").value;
 
-    message.textContent = `$(nation), great! "$(worldcups)", wow! That many?`;
+    message.textContent = "$(nation), great! $(worldcups), wow! That many?";
 });
