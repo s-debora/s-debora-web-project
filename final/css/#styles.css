@@ -3,12 +3,14 @@ body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align: start;
     margin: auto;
+    color: black;
 }
 header {
     background-color: beige;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    margin: auto;
+    color: green;
+    padding: 30px;
 
 }
 img {
@@ -27,6 +29,9 @@ nav a {
 }
 nav a:hover {
     color: blue;
+}
+main {
+    padding: 30px;
 }
 .index-content {
     display: inline-flex;
