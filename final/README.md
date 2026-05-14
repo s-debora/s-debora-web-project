@@ -1,0 +1,8 @@
+# s-debora-web-project/final
+
+The final project is building a website for a business that provides eco-friendly solutions for small-medium business.
+The webpage includes a main page with links to an about page, products page, blog page, and contact page. The main page displays the business name, mission, and brief product description. The about page includes the story, busniess members, and a table with achivements/milestones. The blog page has links to resources for eco-friendly tips, and carbon footprint facts. The product page includes 3 products in detail, along a with a search bar for easier navigation. The contact page includes a contact form for customers to fill out, and a message once the form is submitted. 
+
+I started setting up the project by creating different html files for each webpage. Once those were complete, moved a long and added a CSS file to add style to webpages, which included fonts, borders, paddings, displays. This also included mobile resposiveness style, for the webpage to function and appeal t omobile devices. Lastly I added the javasrcipt file, this allowed for functions to work such as the submission search button, contact form and display messsage.
+
+The technologies I used was a VS Code software and github. The VS Code was used to input all of the code necessary for the webpage to look and function properly. The github was used to able to display the webpage. 
