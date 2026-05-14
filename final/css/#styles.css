@@ -11,20 +11,20 @@ header {
     text-align: center;
     color: green;
     padding: 30px;
-
 }
 img {
     display: flex;
     margin: 30px auto;
 }
 nav {
-    text-align:center;
+    text-align: center;
     margin: 0;
 }
 nav a {
     color:green;
     font-weight: bold;
     text-decoration: underline;
+    text-align: center;
     margin: auto;
 }
 nav a:hover {
@@ -133,14 +133,14 @@ button:hover {
    background-color: gold;
    color: black;
 }
- table{
+table{
     margin: 30px auto;
     border: 4px solid black;
     border-collapse: collapse;
     background-color:mediumseagreen;
     padding: 15px 25px;
     align-content: center;
- }
+}
  th {
     border: 2px solid black;
     color:bisque;
@@ -150,7 +150,7 @@ button:hover {
     border: 2px solid black;
     color:bisque;  
     font-size: medium;
- }
+}
  @media (max-width: 600px) {
    .index-content {
       padding:12px
