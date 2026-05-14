@@ -15,6 +15,7 @@ header {
 img {
     display: flex;
     margin: 30px auto;
+    
 }
 nav {
     text-align: center;
@@ -141,15 +142,17 @@ table{
     padding: 15px 25px;
     align-content: center;
 }
- th {
+th {
     border: 2px solid black;
     color:bisque;
     font-size: large;
+    padding: 15px;
 }
- td {
+td {
     border: 2px solid black;
     color:bisque;  
     font-size: medium;
+    padding: 15px;
 }
  @media (max-width: 600px) {
    .index-content {
