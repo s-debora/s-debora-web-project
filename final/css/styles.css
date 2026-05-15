@@ -12,8 +12,10 @@ header {
     padding: 30px;
 }
 img {
-    display: flex;
-    margin: 30px auto;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
     
 }
 nav {
@@ -32,7 +34,7 @@ nav a:hover {
     color: blue;
 }
 main {
-    padding: 30px;
+    padding: 20px;
 }
 .index-content {
     display: flex;
@@ -161,12 +163,17 @@ td {
     padding: 15px;
 }
  @media (max-width: 600px) {
-   .index-content {
-      padding:12px
+    main {
+        padding: 10px;
+    }
+   .index-content, .product-content,
+   .blog-content, .about-content {
+      flex-direction: column;
+      text-align: center;
    }
 
    nav a {
-      display: flex;
+      display: block;
       margin: 10px 0;
    }
 
@@ -181,11 +188,14 @@ td {
    }
 
    .contactform {
-      width: 75%;
+      width: 90%;
    }
 
-   input, button, .productlink {
-      width: 65%;
-      margin: 10px auto;
+   input, textarea {
+    width: 90%;
+   }
+   button, .productlink {
+      width: 90%;
+      text-align: center;
    }
 }
