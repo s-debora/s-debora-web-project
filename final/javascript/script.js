@@ -25,7 +25,7 @@ if (contactForm) {
     contactForm.addEventListener("submit", function(event) {
         event.preventDefault();
 
-        formMessage.textContent = "Thank you for your submission! We will contact you soon!";
+        formMessage.textContent = `Thank you for your submission! We will contact you soon!`;
         contactForm.requestFullscreen();
     });
 }
