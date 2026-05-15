@@ -35,7 +35,7 @@ main {
     padding: 30px;
 }
 .index-content {
-    display: inline-flex;
+    display: flex;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 200;
@@ -64,7 +64,7 @@ main {
     gap: 10px;
 }
 .product-content {
-    display: inline-flex;
+    display: flex;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 200;
@@ -94,7 +94,7 @@ main {
     gap: 15px;
 }
 .blog-content {
-    display: inline-flex;
+    display: flex;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 200;
